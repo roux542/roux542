@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Matt Jones
 
-<!--
-**roux542/roux542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist skilled in Python, SQL, machine learning, and statistical analysis.
 
-Here are some ideas to get you started:
+## About Me
+- Former educator and coach transitioning into data science
+- Interested in predictive modeling, data analysis, and business insights
+- Building projects in Python, SQL, machine learning, and statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Machine Learning
+- Statistical Analysis
+- Data Visualization
+
+## Featured Projects
+Coming soon — I am currently adding and polishing my best TripleTen projects.
+
+## Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/matthew-jones-8534893b1)
