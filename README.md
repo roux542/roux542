@@ -3,7 +3,7 @@
 Aspiring Data Scientist skilled in Python, SQL, machine learning, and statistical analysis.
 
 ## About Me
-- Former educator and coach transitioning into data science
+- Educator and coach transitioning into data science
 - Interested in predictive modeling, data analysis, and business insights
 - Building projects in Python, SQL, machine learning, and statistics
 
